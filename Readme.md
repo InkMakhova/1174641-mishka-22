@@ -24,7 +24,7 @@ npm install
 
 ### Install gulp
 ```
-npm gulp
+npm install --save-dev gulp
 ```
 
 ### Run in the development mode
