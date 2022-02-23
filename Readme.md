@@ -1,6 +1,6 @@
 # Мишка - интернет-магазин милых вещей для дома ручной работы
 
-<a href="https://mishka-ru-makhova.vercel.app/">Demo</a>
+<a href="https://inkmakhova.github.io/mishka-ru/">Demo</a>
 
 Проект состоит из 3х сверстанных страниц (главная, страница каталога и страница формы заказа).
 
